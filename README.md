@@ -10,7 +10,7 @@
   Moreover, Hoa aims at being a bridge between industrial and research worlds.
 </p>
 
-# Hoa\Cache
+# Hoa\Tree
 
 
 ## Warning
